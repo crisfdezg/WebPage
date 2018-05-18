@@ -1,0 +1,11 @@
+﻿• http://138.100.77.110/equipo5/formulario_libro.php 
+• http://138.100.77.110/equipo5/formulario_usuario.php 
+
+
+• http://138.100.77.110/phpmyadmin
+	usuario: equipo5
+	contraseña: equipo5DWD2014
+
+• Cuenta ftp
+	usuario: equipo5
+	contraseña: equipo5DWD2014

@@ -1,0 +1,22 @@
+body {
+	
+	color: black;
+	background-image: url("imagenes/libro.png")
+}
+
+#principal {
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+
+ p.parrafo {
+	margin-top:20px;
+	text-align: justify;
+	
+}
+
+#interior {
+	padding-left:20%;
+	
+}

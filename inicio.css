@@ -1,0 +1,46 @@
+body {
+	color: black;
+	background-image: url("imagenes/libro.png");
+	
+}
+
+#principal {
+	background-color:#EEE;
+	border: solid thin ;
+	border-radius:1%;
+	border-style:solid;
+	margin-left:auto;
+	margin-right:auto;
+	width:874px;
+}
+
+#navbar {
+	
+	margin:0px;
+	padding:0px;
+}
+
+#navbar li{
+	display: inline;
+}
+
+#navbar li a {
+	font-size:20px;
+	text-decoration: none;
+	float:left;
+	padding: 15px;
+	background-color: #04B486;
+	color: #fff;
+}
+
+#navbar li a:hover {
+	background-color: #CEF6E3;
+	color:#000;
+	margin-top:-2px;
+	padding-bottom:12px;
+}
+
+#cuerpo{
+	margin-left:10px;
+	margin-right:10px;
+}
